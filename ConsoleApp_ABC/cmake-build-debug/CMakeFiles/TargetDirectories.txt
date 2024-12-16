@@ -1,0 +1,3 @@
+/Users/matveipasynkov/CLionProjects/ConsoleApp_ABC/cmake-build-debug/CMakeFiles/ConsoleApp_ABC.dir
+/Users/matveipasynkov/CLionProjects/ConsoleApp_ABC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matveipasynkov/CLionProjects/ConsoleApp_ABC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,81 @@
+Reader (1) has taken the book with id: 0.
+Reader (2) has taken the book with id: 1.
+Reader (3) has taken the book with id: 2.
+Reader (5) has taken the book with id: 3.
+Reader (4) hasn't any opportunities to take book with id:2; because it's busy right now.
+Reader (4) hasn't any opportunities to take book with id:3; because it's busy right now.
+Reader (4) is waiting missing books.
+Reader (3) is reading books: 2 
+Reader (5) is reading books: 3 
+Reader (1) hasn't any opportunities to take book with id:2; because it's busy right now.
+Reader (1) hasn't any opportunities to take book with id:3; because it's busy right now.
+Reader (2) hasn't any opportunities to take book with id:2; because it's busy right now.
+Reader (1) is reading books: 0 
+Reader (2) is reading books: 1 
+Reader (5) got back book with id: 3.
+Reader (3) got back book with id: 2.
+Reader (1) got back book with id: 0.
+Reader (1) is waiting missing books.
+Reader (2) got back book with id: 1.
+Reader (2) is waiting missing books.
+Reader (3) has taken the book with id: 0.
+Reader (3) has taken the book with id: 3.
+Reader (3) is reading books: 0 3 
+Reader (5) hasn't any opportunities to take book with id:2; because it's busy right now.
+Reader (5) hasn't any opportunities to take book with id:3; because it's busy right now.
+Reader (5) has taken the book with id: 5.
+Reader (5) is reading books: 5 
+Reader (5) got back book with id: 5.
+Reader (5) is waiting missing books.
+Reader (3) got back book with id: 0.
+Reader (3) got back book with id: 3.
+Reader (3) has taken the book with id: 4.
+Reader (3) is reading books: 4 
+Reader (3) got back book with id: 4.
+Reader (3) stopped his visits to the library.
+Reader (4) surpassed the wait time for book 2.
+Reader (4) has taken the book with id: 3.
+Reader (4) has taken the book with id: 4.
+Reader (4) is reading books: 3 4 
+Reader (4) got back book with id: 3.
+Reader (4) got back book with id: 4.
+Reader (4) has taken the book with id: 0.
+Reader (4) has taken the book with id: 4.
+Reader (4) is reading books: 0 4 
+Reader (4) got back book with id: 0.
+Reader (4) got back book with id: 4.
+Reader (4) stopped his visits to the library.
+Reader (1) surpassed the wait time for book 2.
+Reader (5) surpassed the wait time for book 2.
+Reader (2) surpassed the wait time for book 2.
+Reader (5) has taken the book with id: 0.
+Reader (5) is reading books: 0 
+Reader (1) hasn't any opportunities to take book with id:0; because it's busy right now.
+Reader (1) has taken the book with id: 1.
+Reader (1) has taken the book with id: 4.
+Reader (1) is reading books: 1 4 
+Reader (2) hasn't any opportunities to take book with id:4; because it's busy right now.
+Reader (2) is waiting missing books.
+Reader (5) got back book with id: 0.
+Reader (1) got back book with id: 1.
+Reader (1) got back book with id: 4.
+Reader (1) is waiting missing books.
+Reader (2) was notified about the availability of book 4 and successfully took it.
+Reader (2) is reading books: 4 
+Reader (1) was notified about the availability of book 0 and successfully took it.
+Reader (1) is reading books: 0 
+Reader (5) stopped his visits to the library.
+Reader (1) got back book with id: 0.
+Reader (2) got back book with id: 4.
+Reader (1) has taken the book with id: 0.
+Reader (1) has taken the book with id: 3.
+Reader (1) has taken the book with id: 4.
+Reader (1) is reading books: 0 3 4 
+Reader (2) hasn't any opportunities to take book with id:2; because it's busy right now.
+Reader (2) is waiting missing books.
+Reader (1) got back book with id: 0.
+Reader (1) got back book with id: 3.
+Reader (1) got back book with id: 4.
+Reader (1) stopped his visits to the library.
+Reader (2) surpassed the wait time for book 2.
+Reader (2) stopped his visits to the library.

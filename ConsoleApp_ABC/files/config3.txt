@@ -1,0 +1,3 @@
+N=6
+M=5
+outputFile=output3.txt
